@@ -1,0 +1,14 @@
+
+.secret
+/node_modules
+ui/.firebase/hosting.YnVpbGQ.cache
+ui/.firebase/hosting.YnVpbGQ.cache
+ui/.firebase/hosting.YnVpbGQ.cache
+ui/.firebase/hosting.YnVpbGQ.cache
+ui/firebase-debug.log
+ui/functions/firebase-debug.log
+ui/functions/firestore-debug.log
+ui/functions/pubsub-debug.log
+ui/functions/ui-debug.log
+.vscode/settings.json
+ui/functions/database-debug.log
